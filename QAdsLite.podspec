@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name          = 'QAdsLite'
-  spec.version       = '0.7.7'
+  spec.version       = '0.7.8'
   spec.summary       = 'QAdsLite for testing'
   spec.description   = 'This is an QAdsLite which will help us in achieving integration admob'
   spec.homepage      = 'https://qsoft.vn'
